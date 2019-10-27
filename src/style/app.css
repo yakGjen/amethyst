@@ -2,6 +2,7 @@
 
 .wrapper {
   margin: 0 auto;
+  overflow: hidden;
 }
 
 .header {
@@ -490,6 +491,10 @@
 .team-card {
   padding: 10px 0;
   width: 20%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
   background: #636363;
   color: #ffffff;
 }
@@ -877,6 +882,7 @@
 .post {
   width: 20%;
   color: #b1b1b1;
+  cursor: pointer;
 }
 
 .post__item {
@@ -1009,6 +1015,18 @@
   .team {
     padding: 50px 100px 0 100px;
   }
+  
+  .pricing,
+  .faq,
+  .blog,
+  .subscribe,
+  .footer {
+    padding: 50px 100px;
+  }
+  
+  .form {
+    width: 100%;
+  }
 }
 
 @media (max-width: 760px) {
@@ -1058,6 +1076,64 @@
   .facts {
     padding: 50px 100px;
   }
+  
+  .our-skills {
+    padding: 0 30px;
+    flex-wrap: wrap;
+  }
+  
+  .our-skills__item {
+    width: 100%;
+  }
+  
+  .our-skills__item:not(:last-child) {
+    margin-bottom: 20px;
+  }
+  
+  .our-video,
+  .benfits,
+  .pricing,
+  .faq,
+  .blog,
+  .subscribe,
+  .footer {
+    padding: 50px;
+  }
+  
+  .footer {
+    padding: 20px 50px;
+  }
+  
+  .form {
+    width: 80%;
+  }
+}
+
+@media (max-width: 580px) {
+  .pricings {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .pricing-card {
+    width: 40%;
+  }
+  
+  .pricing-card:not(:last-child) {
+    margin-bottom: 20px;
+  }
+  
+  .faq {
+    flex-wrap: wrap;
+  }
+  
+  .faq__item {
+    width: 100%;
+  }
+  
+  .faq__item:not(:last-child) {
+    margin-bottom: 20px;
+  }
 }
 
 @media (max-width: 550px) {
@@ -1105,6 +1181,19 @@
     width: 100%;
     padding: 15px 10px;
   }
+  
+  .posts {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .post {
+    width: 40%;
+  }
+  
+  .post:not(:last-child) {
+    margin-bottom: 20px;
+  }
 }
 
 @media (max-width: 440px) {
@@ -1147,5 +1236,23 @@
   .team-card {
     width: 50%;
     margin: 10px;
+  }
+  
+  .post {
+    width: 60%;
+  }
+  
+  .our-video,
+  .benfits,
+  .pricing,
+  .faq,
+  .blog,
+  .subscribe,
+  .footer {
+    padding: 20px;
+  }
+  
+  .form {
+    width: 100%;
   }
 }

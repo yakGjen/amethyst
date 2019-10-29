@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="ba6779e0-cc32-4c66-a50b-705e6adb3b10" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +57,9 @@
       <workItem from="1571601713736" duration="1077000" />
       <workItem from="1571653924110" duration="2816000" />
       <workItem from="1572114233091" duration="7287000" />
-      <workItem from="1572172727306" duration="19996000" />
+      <workItem from="1572172727306" duration="21195000" />
+      <workItem from="1572347911088" duration="894000" />
+      <workItem from="1572355071881" duration="1321000" />
     </task>
     <servers />
   </component>
@@ -67,7 +71,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

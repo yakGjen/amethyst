@@ -67,7 +67,8 @@ module.exports = {
         }]),
         new HtmlWebpackPlugin({
             template: __dirname + "/src/public/index.html",
-            inject: 'body'
+            inject: 'body',
+            title: "amethyst"
         }),
         new UglifyJSPlugin()
     ],

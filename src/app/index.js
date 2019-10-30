@@ -1,3 +1,13 @@
+import Slider from './slider';
+
+const slider = new Slider(
+  document.querySelectorAll('.frame'),
+  document.querySelectorAll('.frame-point')
+);
+
+slider.init();
+slider.start();
+
 const menuItems = {
   about: document.querySelector('#nav-about'),
   works: document.querySelector('#nav-works'),

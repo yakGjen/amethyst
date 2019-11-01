@@ -354,29 +354,31 @@
   font-size: 80%;
 }
 
-/*.testimonials-dev-slider__points {
-  margin-top: 20px;
-  display: flex;
-  justify-content: center;
-}
-.testimonials-dev-slider__point {
-  width: 7px;
-  height: 7px;
-  margin: 0 5px;
-  border-radius: 50%;
-  background: #b1b1b1;
-  cursor: pointer;
-}*/
-
 .testimonials-prod-slider {
+  width: 100%;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  position: relative;
+}
+.testimonials-prod-slider__container {
+  overflow: hidden;
+  width: 100%;
+  /*width: 567px;
+  max-width: 567px;*/
+  height: 50px;
+  display: flex;
+  justify-content: space-around;
+  white-space: nowrap;
+  position: relative;
 }
 .testimonials-prod-slider__item {
   width: 80px;
   height: 50px;
   margin: 0 15px;
+  position: relative;
+  left: 0;
+  transition: all 0.3s 0s linear;
 }
 
 .testimonials-prod-slider__move {

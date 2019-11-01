@@ -4,6 +4,7 @@
     <list default="true" id="ba6779e0-cc32-4c66-a50b-705e6adb3b10" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/slider.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/slider-header.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/style/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/app.css" afterDir="false" />
     </list>
@@ -23,7 +24,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -60,7 +61,12 @@
       <workItem from="1572172727306" duration="21195000" />
       <workItem from="1572347911088" duration="894000" />
       <workItem from="1572355071881" duration="1321000" />
-      <workItem from="1572423968209" duration="7394000" />
+      <workItem from="1572423968209" duration="15964000" />
+      <workItem from="1572499271712" duration="2424000" />
+      <workItem from="1572519702035" duration="8746000" />
+      <workItem from="1572548136109" duration="5595000" />
+      <workItem from="1572592552765" duration="3127000" />
+      <workItem from="1572601320300" duration="4403000" />
     </task>
     <servers />
   </component>

@@ -1,12 +1,17 @@
-import Slider from './slider';
+import SliderHeader from './slider-header';
+import SliderProducts from './slider-products';
 
-const slider = new Slider(
+const sliderHeader = new SliderHeader(
   document.querySelectorAll('.frame'),
   document.querySelectorAll('.frame-point')
 );
 
-slider.init();
-slider.start();
+sliderHeader.init();
+sliderHeader.start();
+
+const sliderProducts = new SliderProducts();
+
+sliderProducts.init();
 
 const menuItems = {
   about: document.querySelector('#nav-about'),

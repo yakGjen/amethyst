@@ -1,4 +1,4 @@
-export default class Slider {
+export default class SliderHeader {
   constructor(frames, points) {
     this.frames = frames;
     this.points = points;

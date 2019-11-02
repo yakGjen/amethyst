@@ -1,8 +1,14 @@
 @import "~reset-css";
 
+@font-face {
+  font-family: Raleway;
+  src: url(../public/assets/fonts/Raleway-Regular.ttf);
+}
+
 .wrapper {
   margin: 0 auto;
   overflow: hidden;
+  font-family: Raleway, sans-serif;
 }
 
 .header {

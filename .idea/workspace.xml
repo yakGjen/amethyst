@@ -4,7 +4,8 @@
     <list default="true" id="ba6779e0-cc32-4c66-a50b-705e6adb3b10" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/slider.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/slider-header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/slider-header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/slider-header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/public/assets/services_pc.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/public/assets/services_pc.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/style/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/app.css" afterDir="false" />
     </list>
@@ -14,8 +15,18 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/app/slider-services.js" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1SCb6yYbFHRLbjm5iWcgpnwlpvT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -24,6 +35,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunDashboard">
@@ -66,7 +78,10 @@
       <workItem from="1572519702035" duration="8746000" />
       <workItem from="1572548136109" duration="5595000" />
       <workItem from="1572592552765" duration="3127000" />
-      <workItem from="1572601320300" duration="4403000" />
+      <workItem from="1572601320300" duration="5311000" />
+      <workItem from="1572690685096" duration="6515000" />
+      <workItem from="1572700568604" duration="3197000" />
+      <workItem from="1572718809243" duration="1660000" />
     </task>
     <servers />
   </component>

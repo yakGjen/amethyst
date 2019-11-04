@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ba6779e0-cc32-4c66-a50b-705e6adb3b10" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/slider-products.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/slider-products.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +81,7 @@
       <workItem from="1572718809243" duration="5703000" />
       <workItem from="1572781005968" duration="14866000" />
       <workItem from="1572803489330" duration="2966000" />
-      <workItem from="1572850716676" duration="4893000" />
+      <workItem from="1572850716676" duration="6019000" />
     </task>
     <servers />
   </component>

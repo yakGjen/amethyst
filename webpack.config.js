@@ -1,7 +1,6 @@
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
-const UglifyJSPlugin = require('uglifyjs-webpack-plugin');
 const autoprefixer = require('autoprefixer');
 
 
@@ -69,8 +68,7 @@ module.exports = {
             template: __dirname + "/src/public/index.html",
             inject: 'body',
             title: "amethyst"
-        }),
-        new UglifyJSPlugin()
+        })
     ],
     devServer: {
         contentBase: './src/public',
